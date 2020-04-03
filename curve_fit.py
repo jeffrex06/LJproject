@@ -62,7 +62,7 @@ def plot_actual_vs_predicted_by_equations(df, x_variable, y_variables, plot_titl
     plt.show()
 
 def main():
-    print("TEST")
+
     pdf = PdfPages("C:/Python_Scripts/Curve_Fit/Auto_Forecast.pdf")
     
     #Read in the monthly oil and gas data
